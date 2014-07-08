@@ -445,3 +445,15 @@ line-height: 1;
 .icon-read:hover     { color:#1bba98; }
 .icon-ignore:hover   { color:#ea5a47; }
 .icon-favorite:hover { color:#f8ca7d; }
+#header {background: none repeat scroll 0 0 #fff;
+    box-shadow: 1px 1px 5px #000;
+    -webkit-box-shadow: 1px 1px 5px #000;
+    height: 50px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9999;}
+header {padding-top:50px;}
+#header ul{list-style: none;}
+#header ul li{display:inline-block;padding: 10px }

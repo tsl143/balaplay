@@ -183,8 +183,8 @@ section {	padding: 6em 0 0; min-height: 20em; }
 .dline3 { border-top: 1px solid #fff; border-right: 1px solid #fff; height: 20px; width: 200px; position: absolute; left: -250px; top: 242px;  }
 .dline4 { border-top: 1px solid #fff; border-right: 1px solid #fff; height: 20px; width: 200px; position: absolute; left: -250px; top: 330px;  }
 
-.one { background: #f5f5f5; border-bottom: 1px solid #4c5162; padding-bottom: 6em; }
-.two { background: #398ea1; color: #fff; padding-bottom: 6em; }
+.one { background: #f5f5f5;  padding-bottom: 6em; }
+.two { background: #D74B4A; color: #fff; padding-bottom: 6em; }
 .two h4 { color: #fff; }
 .four h4 { text-align: center; color: #fff; text-transform: uppercase; }
 .anon { padding-bottom: 0; border-bottom: 1px solid #4c5162; }

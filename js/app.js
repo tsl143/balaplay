@@ -102,5 +102,10 @@ $(document).ready(function(){
         $("html, body").animate({ scrollTop: 0 }, 600);
         return false;
     });
-
+$(".playVid").click(function(){
+    $('#vimeoVid').html('<iframe src="//player.vimeo.com/video/90816320?autoplay=1" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>');
+});
+$("body").on("click",".reveal-modal-bg, .closeMe",function(){
+    $('#vimeoVid').html('');
+});
 });
