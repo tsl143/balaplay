@@ -5,7 +5,7 @@ $(document).ready(function(){
         $('.mainPane').toggleClass("open");
         xpand=($('.mainPane').attr('class'));
         if(xpand.indexOf("open")<0 ){
-            netWidth=$(window).width()-90;
+            netWidth=$(window).width()-75;
             $('.mainPane').css("width",netWidth);
         }else
         {
@@ -23,4 +23,13 @@ $(document).ready(function(){
         $('.detailed-section').hide();
         $('.categories').show();
     });
+    sizechk();
 });
+$(window).resize(function(){sizechk();});
+
+function sizechk()
+{
+    if($(window).width()<600){
+        $(".toggleSide").trigger('click');
+    }
+}
