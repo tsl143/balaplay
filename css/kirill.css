@@ -262,10 +262,10 @@ footer {
 	width: 100%;
 	background: #fff;
 	border-top: 1px solid #aaa;
-	padding: 3em 0 1em;
+	
 }
 
-footer p { text-align: center; padding-top: 5em; letter-spacing: 1px; font-size: 1em; color: #aaa; }
+footer p { text-align: center; font-size: 1em; color: #aaa;margin: 10px auto; }
 
 /* -----------------------------------------
    Animations
