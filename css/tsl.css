@@ -458,8 +458,8 @@ header {padding-top:50px;}
 #header ul{list-style: none;}
 #header ul li{display:inline-block;padding: 10px; }
 #header ul li a{background: #5cc3ae;
-    border-radius: 5px;-webkit-border-radius: 5px;
+    border-radius: 3px;-webkit-border-radius: 3px;
     color: #fff;
-    padding: 4px 10px;}
-.socialites a{padding: 5px;width:45px;height: 45px;display:inline-block}.socialites a img{width: 100%;}
+    padding: 5px 15px;}
+.socialites a{padding: 5px;width:50px;height: 50px;display:inline-block}.socialites a img{width: 100%;}
 #pressCoverage, #aboutUs{margin-bottom: 10px;}
