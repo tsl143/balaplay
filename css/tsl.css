@@ -445,7 +445,7 @@ line-height: 1;
 .icon-read:hover     { color:#1bba98; }
 .icon-ignore:hover   { color:#ea5a47; }
 .icon-favorite:hover { color:#f8ca7d; }
-#header {background: none repeat scroll 0 0 #fff;
+#header {background: rgba(0,0,0,0.5);
     box-shadow: 1px 1px 5px #000;
     -webkit-box-shadow: 1px 1px 5px #000;
     height: 50px;
@@ -456,5 +456,10 @@ line-height: 1;
     z-index: 9999;}
 header {padding-top:50px;}
 #header ul{list-style: none;}
-#header ul li{display:inline-block;padding: 10px }
+#header ul li{display:inline-block;padding: 10px; }
+#header ul li a{background: #5cc3ae;
+    border-radius: 5px;-webkit-border-radius: 5px;
+    color: #fff;
+    padding: 4px 10px;}
 .socialites a{padding: 5px;width:45px;height: 45px;display:inline-block}.socialites a img{width: 100%;}
+#pressCoverage, #aboutUs{margin-bottom: 10px;}
