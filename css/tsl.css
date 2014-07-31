@@ -464,3 +464,8 @@ header {padding-top:50px;}
 .socialites {position: absolute;top:10px;right:15px;}
 .socialites a{padding: 5px;width:50px;height: 50px;display:block}.socialites a img{width: 100%;}
 #pressCoverage, #aboutUs{margin-bottom: 10px;}
+.comingSoon{font-size: 20px;
+    left: 0;
+    width: 100%;
+    position: absolute;
+    top: -30px;}
