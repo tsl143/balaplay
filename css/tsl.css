@@ -469,3 +469,5 @@ header {padding-top:50px;}
     width: 100%;
     position: absolute;
     top: -30px;}
+.mainRound{width: 150px;height:150px;overflow: hidden;margin: 20px auto;}
+.mainRound img{width: 100%;height:auto;}
