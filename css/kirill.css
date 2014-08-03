@@ -86,7 +86,7 @@ header input {
 .logo {display: block; position: relative; top: 15px; width: 200px;}
 
 header {
-	background: url(../img/cover.png) no-repeat 50% 50%;
+	background: url(../img/back.png) no-repeat 50% 50%;
 	min-height: 30em;
 	height: auto;
 	-webkit-background-size: 100% 100%;

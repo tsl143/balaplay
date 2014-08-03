@@ -485,4 +485,5 @@ header {padding-top:50px;}
     header{background-size: cover;}
     .socialites a{display: inline-block}
     .mainBody {width: 90%;}
+    header a{margin-left: 0!important;}
 }
