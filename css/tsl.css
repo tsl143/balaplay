@@ -471,3 +471,10 @@ header {padding-top:50px;}
     top: -30px;}
 .mainRound{width: 150px;height:150px;overflow: hidden;margin: 20px auto;}
 .mainRound img{width: 100%;height:auto;}
+.pressText{padding-top:  30px;text-align: left;}
+.pressTab img{padding:5px 0;}
+.pressTab{background: #fff;box-shadow: 1px 1px 5px #ccc;-webkit-box-shadow: 1px 1px 5px #ccc;
+    margin: 10px auto!important;}
+.pressReadMore{margin-top: 10px;}
+#careers{background: url(../img/people.jpg);background-size: cover;color:#fff;}
+#careers h3{color:#fff;}
