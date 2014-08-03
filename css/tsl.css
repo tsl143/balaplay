@@ -463,7 +463,6 @@ header {padding-top:50px;}
     padding: 5px 15px;}
 .socialites {position: absolute;top:10px;right:15px;}
 .socialites a{padding: 5px;width:50px;height: 50px;display:block}.socialites a img{width: 100%;}
-#pressCoverage, #aboutUs{margin-bottom: 10px;}
 .comingSoon{font-size: 20px;
     left: 0;
     width: 100%;
@@ -472,9 +471,16 @@ header {padding-top:50px;}
 .mainRound{width: 150px;height:150px;overflow: hidden;margin: 20px auto;}
 .mainRound img{width: 100%;height:auto;}
 .pressText{padding-top:  30px;text-align: left;}
-.pressTab img{padding:5px 0;}
 .pressTab{background: #fff;box-shadow: 1px 1px 5px #ccc;-webkit-box-shadow: 1px 1px 5px #ccc;
-    margin: 10px auto!important;}
+    margin: 10px auto!important;padding:5px;}
 .pressReadMore{margin-top: 10px;}
 #careers{background: url(../img/people.jpg);background-size: cover;color:#fff;}
 #careers h3{color:#fff;}
+#pressCoverage{background: #ffb93b}
+#pressCoverage h3{color:#fff;}
+.buttonsRound p{line-height: 1.4}
+@media (max-width:768px)
+{
+    header{background-size: cover;}
+    .socialites a{display: inline-block}
+}
