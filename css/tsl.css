@@ -475,9 +475,9 @@ header {padding-top:50px;}
     margin: 10px auto!important;padding:5px;}
 .pressReadMore{margin-top: 10px;}
 #careers{background: url(../img/people.jpg);background-size: cover;color:#fff;}
-#careers h3{color:#fff;}
-#pressCoverage{background: #ffb93b}
-#pressCoverage h3{color:#fff;}
+#aboutUs{background: url(../img/about.jpg);color:#fff;}
+#pressCoverage h3, #careers h3, #aboutUs h3{color:#fff;margin-top: 0;}
+#pressCoverage{background: url("../img/press.jpg");}
 .buttonsRound p{line-height: 1.4}
 @media (max-width:768px)
 {
