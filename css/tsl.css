@@ -479,6 +479,7 @@ header {padding-top:50px;}
 #pressCoverage h3, #careers h3, #aboutUs h3{color:#fff;margin-top: 0;}
 #pressCoverage{background: url("../img/press.jpg");}
 .buttonsRound p{line-height: 1.4}
+.buttonsRound > div {margin-top:20px;}
 .mainBody {width: 60%;margin: 0 auto;}
 @media (max-width:768px)
 {
