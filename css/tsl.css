@@ -480,6 +480,7 @@ header {padding-top:50px;}
 #pressCoverage{background: url("../img/press.jpg");}
 .buttonsRound p{line-height: 1.4}
 .buttonsRound > div {margin-top:20px;}
+#logoDiv {width:200px;position:absolute;top:25px;left:25px;}
 .mainBody {width: 60%;margin: 0 auto;}
 @media (max-width:768px)
 {

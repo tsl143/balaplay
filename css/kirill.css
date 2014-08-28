@@ -86,13 +86,13 @@ header input {
 .logo {display: block; position: relative; top: 15px; width: 200px;}
 
 header {
-	background: url(../img/back.png) no-repeat 50% 50%;
+	background: url(../img/hands.jpg) no-repeat 50% 50%;
 	min-height: 30em;
 	height: auto;
-	-webkit-background-size: 100% 100%;
-	-moz-background-size: 100% 100%;
-	-o-background-size: 100% 100%;
-	background-size: 100% 100%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 	border-bottom: 8px solid #46a9c0;
 	padding: 0.5em 0 0;
 }
